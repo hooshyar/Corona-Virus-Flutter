@@ -1,4 +1,4 @@
-# Corona Virus Map
+# Corona Virus Map in Flutter
 
 Corona Virus statistics and spread map using flutter
 
@@ -9,8 +9,6 @@ Corona Virus statistics and spread map using flutter
 
 
 ## Getting Started with Flutter
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
